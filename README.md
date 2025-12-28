@@ -2,6 +2,9 @@
 
 **Send rich, beautiful GitHub release announcements to Discord — automatically.**
 
+> [!NOTE]
+> This repository is archived. Development has moved to **Post-Hub** → https://github.com/teneplaysofficial/post-hub
+
 ## Features
 
 - Automatically detects release metadata (`tag`, `body`, `assets`, etc.)
@@ -84,3 +87,4 @@ _With optional thumbnails and preview image if provided_
 ## License
 
 Licensed under the [MIT License](./LICENSE).
+
